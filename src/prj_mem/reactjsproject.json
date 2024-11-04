@@ -1,0 +1,8 @@
+{
+    "path": "C:/Users/Justi",
+    "shell_type": "powershell",
+    "commands": {
+        "command_0": "./nodemon server.py",
+        "command_1": "./python main.py"
+    }
+}
