@@ -1,9 +1,0 @@
-{
-    "path": "C:/Users/Justi",
-    "shell_type": "powershell",
-    "commands": {
-        "command_0": "nodemon main",
-        "command_1": "docker deploy.sh",
-        "command_2": "nodemon ./server.js"
-    }
-}

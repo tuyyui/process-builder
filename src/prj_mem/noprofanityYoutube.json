@@ -1,8 +1,0 @@
-{
-    "path": "C:\\Users\\Justi\\NoProfanityYoutube",
-    "shell_type": "powershell",
-    "commands": {
-        "command_0": "nodemon ./backend/server.js",
-        "command_1": "npm start ./no_profanity_app"
-    }
-}

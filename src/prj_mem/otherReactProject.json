@@ -1,9 +1,0 @@
-{
-    "path": "C:/Users/Justi",
-    "shell_type": "powershell",
-    "commands": {
-        "command_0": "npm build",
-        "command_1": "./build.sh",
-        "command_2": "docker build"
-    }
-}
