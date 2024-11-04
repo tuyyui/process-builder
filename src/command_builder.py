@@ -7,7 +7,6 @@ from rich.panel import Panel
 from rich.prompt import Prompt, Confirm
 from rich.theme import Theme
 from rich.text import Text
-from rich.style import Style
 from rich.padding import Padding
 
 
