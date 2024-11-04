@@ -1,11 +1,10 @@
 import os
 import json
-from typing import Dict, List, Optional
+from typing import Dict, List
 import keyboard
 from rich.console import Console
 from rich.panel import Panel
 from rich.text import Text
-import time
 
 
 class CommandViewer:
